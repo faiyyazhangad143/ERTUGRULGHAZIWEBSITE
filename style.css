@@ -1,0 +1,38 @@
+.image-row {
+    background-color: #0e3574; /* Dark Blue Background Color */
+    padding: 20px;
+  }
+  .image-row .col-md-2 {
+    margin-bottom: 20px; /* Space between columns */
+    color: white; /* White text color */
+  }
+  .image-row .col-md-2 .image-number {
+    font-size: 18px; /* Adjust the font size as needed */
+    margin-bottom: 5px; /* Space below the image number */
+  }
+  /* contact section css  */
+  .social-media-box {
+    width: 150px;
+    height: 150px;
+    background-color: #f0f0f0;
+    text-align: center;
+    line-height: 150px;
+  }
+
+  .social-media-box img {
+    max-width: 100%;
+    max-height: 100%;
+    vertical-align: middle;
+  }
+
+  .social-media-container {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+  }
+  /* ends the contact section css  */
+
+  section {
+    height: 500px; /* Replace with your desired section height */
+  }
+  
